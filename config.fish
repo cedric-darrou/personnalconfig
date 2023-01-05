@@ -1,5 +1,5 @@
 #Custom aliases
-alias push='git push https://cedric-darrou:TOKEN>
+alias push='git push https://cedric-darrou:<TOKEN>/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
 alias st='git status'
 alias ga='git add'
 alias gcm='git commit -m'
