@@ -1,4 +1,7 @@
 #Custom aliases
+
+alias opencfg='nano ~/.config/fish/config.fish'
+alias reloadcfg='source ~/.config/fish/config.fish'
 alias push='git push https://cedric-darrou:<TOKEN>@github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
 alias st='git status'
 alias ga='git add'
